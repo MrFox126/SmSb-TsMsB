@@ -6,6 +6,18 @@ Kendi numaranızı test etmeniz önerilir.
 
 selam ben MrFox bu sms bomber hem termux hemde pc için özel olarak yapılmıştır iyi kullanımlar
 
+#kurulum
+
+```bash
+git clone https://github.com/MrFox126/SmSb-TsMsB.git
+cd SmSb-TsMsB
+PC
+pip install -r requirements.txt
+python3 sms-bomber.py
+Termux
+pip install -r requirements-termux.txt
+python termux-sms-bomber.py
+```
 
 Parametreler
 #Parametre	Açıklama	Varsayılan
