@@ -10,7 +10,7 @@ selam ben MrFox bu sms bomber hem termux hemde pc için özel olarak yapılmış
 
 ```bash
 git clone https://github.com/MrFox126/SmSb-TsMsB.git
-cd SmSb-TsMsB
+cd smsbomber
 PC
 pip install -r requirements.txt
 python3 sms-bomber.py
